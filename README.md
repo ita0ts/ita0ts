@@ -1,6 +1,6 @@
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kinko6&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <div>
-<!-- # 📊 GitHub Stats: -->
-https://github-readme-stats.vercel.app/api/top-langs/?username=kinko6&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact
+
  <img src="https://streak-stats.demolab.com?user=kinko6&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 ---
